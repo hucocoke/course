@@ -1,1 +1,1 @@
-This is a demo website created in Agile project. [ coco]
+This is a demo website created in Agile project. [ hayley]
